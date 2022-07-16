@@ -6,9 +6,11 @@ The data used in this project is downloaded from Kaggle 'https://www.kaggle.com/
 
 The major steps involved in this project,
 
-Data Preprocessing
-Model Building
-Model Deployment
+1.Data Preprocessing
+
+2.Model Building
+
+3.Model Deployment
 
 ### 1.Data Preprocessing
 
